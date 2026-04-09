@@ -1,23 +1,18 @@
 # Greetings! I’m Vince ✦
 
-I’m a Computer Science student focused on building **mathematically grounded, graphics-driven, and simulation-oriented systems**, supported by full-stack software engineering.
+I am a Computer Science student specializing in high-performance graphics, numerical simulations, and full-stack systems. I bridge the gap between theory and implementation to build software that makes complex computation observable and interactive.
 
 ⊹ ⊹ ⊹
 
-I work at the intersection of systems, visualization, and computation, building software that turns complex ideas into something observable and usable. I’m especially drawn to simulations and visual tools that help people understand how things behave, not just how they look.
+Areas of Focus:
+
+- AI / Machine Learning: Deep learning applications (Scikit-learn, SHAP/LIME, Pytorch)
+- Scientific Computing: Simulation, FEA/FEM, and Medical Imaging Systems
+- Full-Stack Web: Scalable software engineering (ReactJS, NestJS, PostgreSQL)
+- Computer Graphics: OpenGL, WebGL, and Three.js
+- GPU Programming: CUDA and WebGPU
+- Game Development: Real-time systems and 3D art
 
 ⊹ ⊹ ⊹
-
-**Areas I work in:**
-- Scientific & numerical computing (simulation, FEM/FEA concepts)
-- Computer graphics & visualization (OpenGL, WebGL, Three.js)
-- GPU programming (CUDA, WebGPU)
-- Full-stack web development
-- AI / ML / DL
-- Game development & 3D art
-
-⊹ ⊹ ⊹
-
-I enjoy projects that require both **theory and implementation**—from physics-based simulators and mathematical visualizations to GPU-accelerated and real-time systems.
 
 📖 Always learning. Always building.
