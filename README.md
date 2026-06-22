@@ -1,7 +1,7 @@
 ## Greetings! I’m Vince ✦
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data-ffb3ba?style=flat-square&logoColor=white" alt="Focus">
-  <img src="https://img.shields.io/badge/Engine-Graphics%20%26%20Simulations-ffdfba?style=flat-square&logoColor=white" alt="Engine">
+  <img src="https://img.shields.io/badge/Tool-Full%20Stack%20Software%20Engineering-ffdfba?style=flat-square&logoColor=white" alt="Tool">
 </p>
 
 I am a Computer Science student bridging the gap between rigorous scientific computing and applied intelligence. Currently, I focus on building robust AI/ML/DL pipelines, scalable data architectures, and full-stack software systems tailored for high-impact domains like **Healthcare, Finance, Agriculture, and Engineering**.
