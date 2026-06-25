@@ -10,9 +10,9 @@ I am a Computer Science student bridging the gap between rigorous scientific com
 
 ### ✦ Core Verticals
 
-*   **Applied AI/ML & Domain Engineering** ── Deep learning models, PINNs, and predictive systems.
+*   **Applied AI/ML & Domain Engineering** ── Deep learning models, LLMs, PINNs, and predictive systems.
     <br> 
-    `PyTorch` `SciKit-Learn` `Healthcare (DICOM)` `Agri-Tech` `Engineering Simulations`
+    `PyTorch` `SciKit-Learn` `Healthcare (DICOM)` `Genomics` `Agri-Tech` `Engineering Simulations`
     
 *   **Data Systems & MLOps Pipelines** ── Reproducible modeling, model tracking, and specialized data structures.
     <br> 
@@ -22,7 +22,7 @@ I am a Computer Science student bridging the gap between rigorous scientific com
     <br> 
     `TypeScript` `Next.js` `NestJS` `Prisma` `FastAPI`
 
-*   **Scientific Computing & Graphics (Foundations)** ── Low-level acceleration and mathematical simulations.
+*   **Scientific Computing & Simulations (Foundations)** ── Low-level acceleration and mathematical / graphical systems.
     <br> 
     `CUDA` `C++` `FEM/FEA` `OpenGL / WebGL`
 
